@@ -1,0 +1,41 @@
+.certificate__container {
+    display: grid;
+    gap: 2rem;
+}
+
+.card.certificate {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    background: var(--color-white);  
+    padding: 1.5rem; 
+    border-radius: var(--border-radius-2); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.certificate:hover {
+    background: var(--color-light);
+}
+
+.certificate__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.certificate__header h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.certificate__header h5 {
+    font-size: 1rem;
+    color: var(--color-dark);
+}
+
+.certificate small {
+    display: block;
+    margin: 0.5rem 0;
+    color: var(--color-dark);
+}

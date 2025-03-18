@@ -1,0 +1,31 @@
+.skills__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem 4rem;
+}
+
+.card.skills {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.skill__icon {
+
+    padding: 0.6rem;
+    border-radius: var(--border-radius-3);
+    font-size: 1.5rem;
+    color: var(--color-black);
+    transition: var(--transition);
+}
+
+.skill:hover .skill__icon {
+    background: var(--color-light);
+    color: var(--color-primary);
+}
+
+.skill h4 {
+    margin-bottom: 0.7rem;
+}
+
+

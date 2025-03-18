@@ -1,0 +1,24 @@
+.about__container {
+    display: grid;
+    grid-template-columns: 35% 53%;
+    gap: 12%;
+}
+
+.about__portrait {
+    height: fit-content;
+    max-height: 40rem;
+    border: 1rem solid var(--color-white);
+    transition: var(--transition);    
+}
+
+.about__portrait:hover {
+    border-width: 0;
+}
+
+.about__right p {
+    margin-bottom: 0.8rem;
+}
+
+.about__right .btn {
+    margin-top: 2.5rem;
+}
