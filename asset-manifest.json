@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/capstone_portfolio/static/css/main.9bbece1c.css",
-    "main.js": "/capstone_portfolio/static/js/main.69844565.js",
-    "static/media/IMG_2980_(1).jpg": "/capstone_portfolio/static/media/IMG_2980_(1).d77688a7c775efa5b111.jpg",
-    "static/media/DSCF1256-1_Original.jpg": "/capstone_portfolio/static/media/DSCF1256-1_Original.10f7fe2547bf540b2ef3.jpg",
-    "static/media/Yu_Tanaka_Resume.pdf": "/capstone_portfolio/static/media/Yu_Tanaka_Resume.acf429db64de55837796.pdf",
-    "index.html": "/capstone_portfolio/index.html",
-    "main.9bbece1c.css.map": "/capstone_portfolio/static/css/main.9bbece1c.css.map",
-    "main.69844565.js.map": "/capstone_portfolio/static/js/main.69844565.js.map"
+    "main.css": "/captstone_portfolio/static/css/main.9bbece1c.css",
+    "main.js": "/captstone_portfolio/static/js/main.5eab7ca6.js",
+    "static/media/IMG_2980_(1).jpg": "/captstone_portfolio/static/media/IMG_2980_(1).d77688a7c775efa5b111.jpg",
+    "static/media/DSCF1256-1_Original.jpg": "/captstone_portfolio/static/media/DSCF1256-1_Original.10f7fe2547bf540b2ef3.jpg",
+    "static/media/Yu_Tanaka_Resume.pdf": "/captstone_portfolio/static/media/Yu_Tanaka_Resume.acf429db64de55837796.pdf",
+    "index.html": "/captstone_portfolio/index.html",
+    "main.9bbece1c.css.map": "/captstone_portfolio/static/css/main.9bbece1c.css.map",
+    "main.5eab7ca6.js.map": "/captstone_portfolio/static/js/main.5eab7ca6.js.map"
   },
   "entrypoints": [
     "static/css/main.9bbece1c.css",
-    "static/js/main.69844565.js"
+    "static/js/main.5eab7ca6.js"
   ]
 }
